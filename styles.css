@@ -1,0 +1,129 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.top-container{
+    background-color:#DFF6FF;
+    padding-top: 100px;
+    }
+.middle-container{
+    font-size: 25px;
+    font-weight:normal;
+}
+.bottom-container{
+    padding: 40px 100px 40px;
+    margin: 50px auto auto;
+    background-color: #DFF6FF;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+/* .pro{
+    text-decoration:underline;
+} */
+.top-cloud{
+    position: absolute;
+    left: 890px;
+    top: 30px;
+}
+.bottom-cloud{
+    background-color:#DFF6FF;
+    position:absolute;
+    top: 250px;
+    left: 290px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.xyz1{
+    margin: 60px auto 0;
+    height: 140px;
+    
+}
+.xyz2{
+    margin: auto;
+    float: left;
+    
+    length: 150px;
+    height: 150px;
+}
+.xyz3{
+    margin: auto;
+    float: right;
+    
+    length: 150px;
+    height: 150px;
+}
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    color: #54BAB9;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-size: 2em;
+    
+    color: #54BAB9;
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color: #54BAB9;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+p{
+    width: 49%;
+    color:   darkslategrey;
+    margin: auto; 
+    line-height: 2rem;
+   
+  
+}
+hr{
+    border: dotted #A0C3D2 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto ;
+}
+.contact-details{
+    width: 30%;
+    margin: 40px auto 60px;
+
+}
+.btn {
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Courier New;
+    color: #86E5FF;
+    font-size: 20px;
+    background: #0081C9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #579BB1;
+    text-decoration: none;
+  }
+.copyright{
+    color:#afb4b4;
+    font-size:0.7rem;
+    padding:20px 0;
+}
+a{
+    color:rgb(67, 49, 49);
+    margin: 20px 10px 20px 10px;
+    font-size:18px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+a:hover{
+    color:#54BAB9 ;
+}
+  
